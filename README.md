@@ -20,7 +20,7 @@ If you want to apply encryption on **Christmas is the 25th December
 
 ##Usecase for Svool dliow!
 
-open test_nuagecipher.py file then you  will write SVOOL DLIOW! for compariosn in place of	assert ' '.join(nuagecipher.encrypted_data) == 'Abhishesh'
+open test_nuagecipher.py file then you  will write SVOOL DLIOW! for compariosn in place of Abhishesh	assert ' '.join(nuagecipher.encrypted_data) == 'Abhishesh'
 
 and run pytest test_nuagecipher.py command on terminal the it will show 
 
